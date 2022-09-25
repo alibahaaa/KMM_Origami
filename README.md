@@ -6,5 +6,5 @@
 https://medium.com/@alibahaabadii/zero-to-hero-in-kmm-with-compose-and-swiftui-d8951f7d80b7
 
 #### Preview:
-> <img src="https://miro.medium.com/max/1400/1*SWTSKiF5ifbs-2boOWHd6w.png" width=200>
+> <img src="https://cdn-images-1.medium.com/max/1600/1*BGD9FyOi8pUGNCm_F0No3A.png" width=200>
 > 
